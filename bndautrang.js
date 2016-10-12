@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/YWuCVn' target='_blank'><img src='https://lh3.googleusercontent.com/-kbH502e0JrQ/V_4uEqg9aAI/AAAAAAAAAhw/B9qwKn_eGBcRV1KhY3Ep1aeNsyDLi0WSQCL0B/w530-d-h353-p-rw/ban-dat-long-thanh.jpg' width='500px'/><br/>Bán Đất Long Thành Giá Rẻ</a>. Liên hệ Cty BĐS VINCOM.REAL 0986553810. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/YWuCVn' target='_blank'><img src='https://lh3.googleusercontent.com/-kbH502e0JrQ/V_4uEqg9aAI/AAAAAAAAAhw/B9qwKn_eGBcRV1KhY3Ep1aeNsyDLi0WSQCL0B/w530-d-h353-p-rw/ban-dat-long-thanh.jpg' width='500px'/><br/>Bán Đất Long Thành Giá Rẻ</a>. Liên hệ Cty BĐS VINCOM.REAL. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
